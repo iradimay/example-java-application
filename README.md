@@ -88,12 +88,4 @@ The original command was:
 * maven: `brew install maven`   
 
 ## add sample by ira
-## Dependencies
 
-* docker: `brew install docker`
-* maven: `brew install maven` 
-## add sample by ira
-## Dependencies
-
-* docker: `brew install docker`
-* maven: `brew install maven` 
