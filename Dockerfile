@@ -7,7 +7,7 @@ RUN apt-get update && \
   apt-get install -y \
     net-tools \
     tree \
-    vim && \
+    vim \
     wget && \
     mkdir /node_exporter && \
 	cd /node_exporter && \
